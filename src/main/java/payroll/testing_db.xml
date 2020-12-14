@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product_catalog>
+    <item>
+        <title>Dr Martens</title>
+        <price>$105.95</price>
+        <description>
+            <product_id>123</product_id>
+            <text>Lorem</text>
+        </description>
+        <quantity>50</quantity>
+        <id>123</id>
+        <category>shoes</category>
+        <product_image>
+            <product_id>123</product_id>
+            <image>"src/martens.png"</image>
+        </product_image>
+    </item>
+</product_catalog>
+

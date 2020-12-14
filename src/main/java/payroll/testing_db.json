@@ -1,0 +1,29 @@
+{
+  "product": {
+    "price": 1000,
+    "category": "shoes",
+    "id": 1010101,
+    "title": "Dr. Martens",
+    "number": 20,
+    "description": {
+      "text": "lorem",
+      "id": 1010101
+    },
+    "product_image": {
+      "id": 1010101,
+      "image": "server/shoes/martens.png"
+    }
+  },
+
+  "order1":{
+    "address": "Moscow, Mikluho-Maklaya street. 21 h",
+    "order_number": 100,
+    "products_ordered": {
+      "product1": 1010101,
+      "product2": 1010102,
+      "product3": 1010102
+    },
+    "client_id": 25
+  }
+
+}

@@ -1,0 +1,18 @@
+<orders>
+    <order>
+        <order_number>50</order_number>
+        <overall_price>$105.95</overall_price>
+        <shipping_address>
+            <product_id>123</product_id>
+            <text>Moscow, Mikluho-Maklaya street. 21 h</text>
+        </shipping_address>
+        <ordered_products>
+            <product_id>123</product_id>
+            <product_id>119</product_id>
+            <product_id>120</product_id>
+            <product_id>121</product_id>
+            <product_id>122</product_id>
+        </ordered_products>
+        <client_id>100</client_id>
+    </order>
+</orders>
